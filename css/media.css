@@ -1,0 +1,340 @@
+@media screen and (max-width:400px) {
+    .navbar .logo img{
+        margin-top: 10px;
+        width: 27%;
+       
+    }
+    .navbar .signin{
+        width: 60px;
+        font-size: 0.67em;
+        font-weight: 300;
+    }
+    .card-box .card{
+        width: 340px;
+        height: 310px;
+        margin: 20px auto auto auto;
+       
+
+    }
+    .card-box .card2{
+        width: 340px;
+        height: 310px;
+        margin: 20px 0px 0px 18px;
+       
+
+    }
+    .question-box .box1 span{
+        font-size: 1.2rem; 
+    }
+    
+
+}
+
+
+
+@media screen and (max-width:600px) {
+    .navbar .logo img{
+        margin-top: 10px;
+        width: 27%;
+       
+    }
+    .navbar .signin{
+        width: 70px;
+        font-size: 0.67em;
+        font-weight: 300;
+    }
+    .main{
+        height: 50%;
+    }
+    .main h1{
+        display: block;
+        width: 80%;
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin:60px 0px 0px 25px;
+    }
+    .main p {
+         margin-left: 25px;
+    }
+    .main h3{
+        margin-left: 25px;
+    }
+    .input-box{
+        display: inline;
+    }
+    form{
+        margin-left: 20px;
+    }
+    .input-box input{
+        width: 300px;
+    }
+    .input-box .box{
+        margin: 20px 0px 0px 20px ;
+    }
+    .card-box{
+        display: inline;
+        justify-content: center;
+
+       
+    }
+    .card-box .card{
+        
+        width: 370px;
+        height: 340px;
+        margin: 20px auto auto auto;
+        display: block;
+       
+
+    }
+    .card-box .card img{
+        width: 75%;
+        margin-left: 40px;
+    }
+    .card-box .card2{
+        width: 370px;
+        height: 340px;
+        margin: 20px auto auto auto;
+        display: block;
+       
+        
+    }
+    .card-box .card2 img{
+        width: 75%;
+        margin-left: 40px;
+    }
+    .question-box{
+        padding-bottom: 20px
+    }
+    .question-box .box1 {
+        margin:10px auto auto auto ;
+    }
+    #cost{
+        font-size: 1.2em;
+        font-weight: 400;
+        display: flex;
+
+       
+        
+    }
+    .question-box .box1 span {
+        font-size: 1.2em;
+    }
+    .question-box .box2{
+        width: 85%;
+        margin: 10px auto 0px auto; 
+    }
+    .question-box .box2 span{
+        font-size: 1.15em;
+    }
+    #text{
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin-left: 20px;
+    }
+     #info{
+        margin-left: 20px;
+        font-size: 0.87em;
+      
+    }
+    .question-box .box1 span box-icon{
+        right: 10%;
+    }
+    .sub-question-box{
+        width: 80%;
+        margin: auto;
+    }
+    .sub-question-box h3{
+        margin: 10px auto auto 0px;
+        font-size: 1.0em;
+        line-height: 1.4em;
+    }
+    #form2{
+        margin: auto;
+    }
+    #box2{
+        margin: 10px 0px 0px 10px ;
+    }
+    .footer {
+        display: flex;
+    }
+
+.footer .list-footer{
+    display: inline;
+    margin:0px auto auto 45px;
+   }
+   .footer .QA span{
+    margin:80px auto auto 45px;
+    }
+}
+
+@media  screen and (max-width:380px) and (min-width:310px){
+    body{
+        height: 100%;
+    }
+    .bg{
+        margin: 100px 0px 0px 0px ;
+        background: linear-gradient(0deg, rgba(0,8,29,255)87%, rgba(0,8,29,255)97%, rgba(0, 8, 29, 0)100%);
+        padding-bottom: 20px;
+       
+   
+    }
+    
+    .card-box .card{
+        width: 340px;
+        margin: 20px auto auto auto;
+    }
+    .card-box .card2{
+        width: 340px; 
+        margin: 20px auto auto auto;
+        
+    }
+    .question-box {
+        width: 100%;
+
+        
+    }
+    .question-box h2{
+        margin: 0px 0px 0px 20px;
+        font-size: 1.9em; 
+        font-weight: 700;
+        padding-top: 0px;
+    }
+    .question-box .box1{
+        width: 85%;
+        height: 7%;
+       
+    }
+    .question-box .box1 {
+        margin:10px auto auto auto ;
+    }
+    
+    .question-box .box1{
+        height: 50px;
+    }
+    .question-box .box1 span{
+        margin: 8px 0px 0px 20px;
+    }
+    #text{
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin-left: 20px;
+    }
+    .card-box .card #info{
+        margin-left: 20px;
+
+    }
+
+    .footer {
+        display: flex;
+    }
+
+    .footer .list-footer{
+    display: inline;
+    margin:40px auto auto 45px;
+   }
+   .footer .QA span{
+    margin:80px auto auto 45px;
+    }
+    .footer .list-footer  .li-1 {
+        margin:10px 0px 0px 0px;
+        
+    }
+    .footer .list-footer .li-1  li{
+        font-size: 0.87em;
+        margin: 15px 0px 0px 0px ;
+       
+    }
+    .footer .list-footer  .li-2 {
+        margin:10px 0px 0px 0px;
+        
+    }
+    .footer .list-footer .li-2  li{
+        font-size: 0.87em;
+        margin: 15px 0px 0px 0px ;
+       
+    }
+    .footer .list-footer  .li-3 {
+        margin:10px 0px 0px 0px;
+        
+    }
+    .footer .list-footer .li-3  li{
+        font-size: 0.87em;
+        margin: 15px 0px 0px 0px ;
+       
+    }
+    .footer .list-footer  .li-4 {
+        margin:10px 0px 0px 0px;
+        
+    }
+    .footer .list-footer .li-4  li{
+        font-size: 0.87em;
+        margin: 15px 0px 0px 0px ;
+       
+    }
+    .question-box .box1 span {
+        font-size: 1.2em;
+    }
+    
+    
+    
+    
+}
+
+
+@media  screen and (max-width:440px) and (min-width:380px){
+    body{
+        height: 100%;
+    }
+    .bg{
+        box-sizing: border-box;
+       
+    }
+    .card-box .card{
+        width: 350px;
+        margin: 20px auto auto auto;
+       
+    }
+    .card-box .card2{
+        width: 350px;
+        margin: 20px auto 0px auto;
+    }
+    .question-box h2{
+        margin: 0px 0px 0px 20px;
+    }
+    .question-box .box1{
+        width: 85%;
+        height: 12%;
+        margin: 10px auto auto auto;
+    }
+     .question-box .box1  span{
+        margin: 7px auto 20px 20px ;
+    }
+    #text{
+        font-size: 1.3rem;
+        font-weight: 500;
+        margin-left: 20px;
+    }
+    .card-box .card #info{
+        margin-left: 20px;
+
+    }
+    .footer {
+        display: flex;
+    }
+
+.footer .list-footer{
+    display: inline;
+    margin:0px auto auto 45px;
+   }
+   .footer .QA span{
+    margin:80px auto auto 45px;
+    }
+    .question-box .box1 span {
+        font-size: 1.2em;
+    }
+    
+    
+    
+
+
+}
